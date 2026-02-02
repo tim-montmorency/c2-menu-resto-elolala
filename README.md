@@ -1,9 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22379951&assignment_repo_type=AssignmentRepo)
 # Menu de Restaurant
 
-**Nom de l'étudiant :** [Votre nom]  
-**Date :** [Date]  
-**Restaurant choisi :** [Nom de votre restaurant fictif ou inspiré]
+**Nom de l'étudiant :** Élodie Lajeunesse  
+**Date :** 26 janvier 2026  
+**Restaurant choisi :** Pastoria
 
 ## Instructions de l'exercice
 
@@ -17,22 +17,23 @@
 
 **Palette de couleurs :**
 
-- Primaire : #2c3e50
-- Secondaire : #e74c3c
-- [Ajoutez vos couleurs]
+- Primaire : #2b2b2b
+- Secondaire : #f8f5f0
+- #7a1f1f
+- #b08d57
 
 **Police utilisée :**
 
-- [Nom de la police Google Fonts ou autre]
+- Italiana static
 
 **Décisions CSS notables :**
 
-- [Expliquez vos choix techniques intéressants]
+- [J'ai choisi des couleurs simples et élégantes pour que le menu soit réaliste et facile à lire pour les clients. J'ai centré le contenu avec du CSS, j'ai d'ailleurs augmenter la taille du texte pour mieux lire. J'ai choisi une police de texte élégante qui fait penser à l'Italie.]
 
 ## Difficultés rencontrées
 
-[Optionnel : Quels aspects ont été difficiles?]
+[Optionnel : Faire la liste, les classes et mes choix pour le css ont étés difficiles.]
 
 ## Améliorations futures
 
-[Optionnel : Qu'aimeriez-vous ajouter?]
+[Optionnel : Une image de fond et un décor sur le menu qui donne plus l'impression d'être en Italie.]
